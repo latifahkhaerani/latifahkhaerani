@@ -30,19 +30,6 @@
 
 ---
 
-### ✨ Projects
-
-🍱 **Foody AI Meal Planner**  
-AI-powered meal planning application.
-
-🎭 **CosFit**  
-Cosplay marketplace with virtual fitting and community features.
-
-👕 **Copy Pastel**  
-Fashion e-commerce application.
-
----
-
 ### 💌 Let's Connect
 
 [LinkedIn](https://www.linkedin.com/) • [GitHub](https://github.com/)
