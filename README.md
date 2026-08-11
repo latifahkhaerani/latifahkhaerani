@@ -72,14 +72,7 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 </div>
----
 
-
-### 🌱 Currently Learning
-
-`JavaScript` → `React` → `Next.js` → `Backend` → `Full-Stack`
-
----
 
 ### 💌 Let's Connect
 
