@@ -1,7 +1,7 @@
 # Hi, I'm Latifah Khaerani! 👋🏻🌷
 
 💻 Aspiring Full-Stack Developer  
-🎨 Interested in UI/UX & frontend development
+🎨 Interested in UI/UX & frontend development 
 🌱 Currently learning JavaScript, React, Next.js & Node.js
 
 ---
