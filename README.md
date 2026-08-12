@@ -1,5 +1,10 @@
 # Hi, I'm Latifah Khaerani! 👋🏻🌷
 
+## 💻 Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 💻 Aspiring Full-Stack Developer  
 🎨 Interested in UI/UX & frontend development 
 
