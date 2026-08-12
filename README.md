@@ -1,6 +1,4 @@
 # Hi, I'm Latifah Khaerani! 👋🏻🌷
-
-## 💻 Coding Activity
 [![wakatime](https://wakatime.com/badge/user/b99ed4ae-cf51-46e3-8d48-52f3e2088c0c.svg)](https://wakatime.com/@b99ed4ae-cf51-46e3-8d48-52f3e2088c0c)
 
 💻 Aspiring Full-Stack Developer  
