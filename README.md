@@ -1,7 +1,8 @@
 # Hi, I'm Latifah Khaerani! 👋🏻🌷
 
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Iso&duration=3000&pause=500&color=14E623&background=8C1447C6&center=true&vCenter=true&width=600&height=100&lines=Aspiring+Full-Stack+Developer;+Interested+in+Frontend+development)](https://git.io/typing-svg)
-
+</div>
 [![wakatime](https://wakatime.com/badge/user/b99ed4ae-cf51-46e3-8d48-52f3e2088c0c.svg)](https://wakatime.com/@b99ed4ae-cf51-46e3-8d48-52f3e2088c0c)
 
 ---
