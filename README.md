@@ -83,6 +83,13 @@
 ---
 
 
-### 💌 Let's Connect
 
-[LinkedIn](https://www.linkedin.com/) • [GitHub](https://github.com/)
+ ### 📊 Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=latifahkhaerani&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=latifahkhaerani&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
